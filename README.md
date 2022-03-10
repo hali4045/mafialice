@@ -5,7 +5,7 @@ features rounded lz-re sides, empyrean-esque top, exaggerated seam, 6.66 deg typ
 
 ![fromt!!1!11!](https://i.imgur.com/4xqEK5x.png) 
 ![side!1!!!1!!](https://i.imgur.com/KTDIBBH.png) 
-![bumtt!!1!!!1](https://i.imgur.com/6fhDFJt.png) 
+![bumtt!!1!!!1](https://i.imgur.com/pJjy3FJ.png) 
 ![mount!1!!1!1](https://i.imgur.com/Lnw7wzv.png) 
 ![side2!!11!1!](https://i.imgur.com/V4Y4Zih.png) 
 

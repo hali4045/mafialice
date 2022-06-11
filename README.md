@@ -1,6 +1,8 @@
 # mafialice
 two piece open source tadpole alice compatible with alice plates and usb-c alice pcbs 
 
+***i messed up my tadpole head spacing so you have to extrude that area .2 mm down before using i think***
+
 features rounded lz-re sides, empyrean-esque top, exaggerated seam, 6.66 deg typing angle, large xon ledge, and god knows what front height 
 
 ![fromt!!1!11!](https://i.imgur.com/4xqEK5x.png) 
